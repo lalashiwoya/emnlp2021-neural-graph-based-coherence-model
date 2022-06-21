@@ -19,11 +19,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\27621\OneDrive\文档\GitHub\emnlp2021-neural-graph-based-coherence-model\data\Dataset_Global" />
@@ -38,6 +41,8 @@
       <option name="presentableId" value="Default" />
       <updated>1647518829870</updated>
       <workItem from="1647518833714" duration="2765000" />
+      <workItem from="1655739643565" duration="9318000" />
+      <workItem from="1655766973456" duration="6863000" />
     </task>
     <servers />
   </component>
